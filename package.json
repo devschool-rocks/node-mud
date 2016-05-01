@@ -10,6 +10,7 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "easy-table": "^1.0.0",
     "glob-fs": "^0.1.6",
     "jsonfile": "^2.3.0",
     "net": "^1.0.2"
