@@ -11,6 +11,7 @@
   "devDependencies": {},
   "dependencies": {
     "glob-fs": "^0.1.6",
-    "jsonfile": "^2.3.0"
+    "jsonfile": "^2.3.0",
+    "net": "^1.0.2"
   }
 }
